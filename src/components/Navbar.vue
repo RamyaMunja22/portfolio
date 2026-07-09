@@ -15,7 +15,7 @@
         <a href="#contact">Contact</a>
       </nav>
 
-      <a href="/public/Ramya_M_Resume.pdf" class="resume-btn" target="_blank">
+      <a href="/Ramya_M_Resume.pdf" class="resume-btn" target="_blank">
         Resume
       </a>
 

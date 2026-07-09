@@ -24,7 +24,7 @@
 
         <div class="hero-buttons">
 
-          <a href="/public/Ramya_M_Resume.pdf" download="Ramya_M_Resume.pdf" class="btn-primary">
+          <a href="/Ramya_M_Resume.pdf" download="Ramya_M_Resume.pdf" class="btn-primary">
             Download Resume
           </a>
 
