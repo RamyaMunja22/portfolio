@@ -36,7 +36,7 @@
 
           <h3>💼 LinkedIn</h3>
 
-          <p>www.linkedin.com/in/munja-ramya-64235780</p>
+          <a href="https://www.linkedin.com/in/munja-ramya-64235780" target="_blank" rel="noopener noreferrer">linkedin.com/in/munja-ramya</a>
 
         </div>
 

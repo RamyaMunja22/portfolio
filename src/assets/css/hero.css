@@ -275,6 +275,20 @@
 
 }
 
+.python {
+    top: 150px;
+    left: 10px;
+}
+
+.flask {
+    top: 200px;
+    right: 30px;
+}
+
+.claude {
+    top: -20px;
+}
+
 @keyframes float{
 
     0%,100%{

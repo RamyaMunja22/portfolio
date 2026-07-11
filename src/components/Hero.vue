@@ -19,7 +19,7 @@
         </h2>
 
         <p>
-          Building enterprise software that solves real business challenges. With 9+ years of experience in Full Stack Development, I specialize in developing scalable SaaS applications using PHP, Laravel, Vue.js, and MySQL. My expertise includes configurable form builders, workflow automation, authentication & authorization, Single Sign-On (SSO), RESTful APIs, and AI-assisted development. I enjoy transforming complex business requirements into secure, scalable, and user-friendly applications while continuously learning and adopting modern technologies.
+          Building enterprise software that solves real business challenges. With 9+ years of experience in Full Stack Development, I specialize in developing scalable SaaS applications using PHP, Laravel, Vue.js, MySQL and Python/Flask. My expertise includes configurable form builders, workflow automation, authentication & authorization, Single Sign-On (SSO), RESTful APIs, and AI-assisted development. I enjoy transforming complex business requirements into secure, scalable, and user-friendly applications while continuously learning and adopting modern technologies.
         </p>
 
         <div class="hero-buttons">
@@ -75,6 +75,9 @@
         <span class="floating vue">Vue.js</span>
         <span class="floating mysql">MySQL</span>
         <span class="floating ai">AI</span>
+        <span class="floating python">Python</span>
+        <span class="floating flask">Flask</span>
+        <span class="floating claude">Claude</span>
 
       </div>
 
@@ -87,8 +90,8 @@
 import { ref, onMounted } from 'vue'
 
 const titles = [
-  'Full Stack Developer',
-  'Software Engineer II'
+  'Software Engineer III',
+  'Full Stack Developer'
 ]
 
 const displayText = ref('')
