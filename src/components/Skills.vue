@@ -18,7 +18,8 @@
 
           <ul>
             <li>PHP</li>
-            <li>Laravel</li>
+            <li>Slim</li>
+            <li>Symfony</li>
             <li>Python</li>
             <li>REST APIs</li>
             <li>Authentication & Authorization</li>

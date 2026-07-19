@@ -19,7 +19,7 @@
 
           <p>
             I'm a Full Stack Developer with 9+ years of experience in developing
-            enterprise SaaS applications using PHP, Laravel, Vue.js, and MySQL.
+            enterprise SaaS applications using PHP, Slim, Symfony, Vue.js, and MySQL.
           </p>
 
           <p>

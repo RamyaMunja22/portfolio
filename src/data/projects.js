@@ -6,7 +6,8 @@ export default [
         image: "/images/tapprojects.png",
         technologies: [
             "PHP",
-            "Laravel",
+            "Slim",
+            "Symfony",
             "Vue.js",
             "MySQL"
         ],
@@ -31,7 +32,8 @@ export default [
 
         technologies: [
             "PHP",
-            "Laravel",
+            "Slim",
+            "Symfony",
             "Vue.js",
             "MySQL"
         ],
